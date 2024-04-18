@@ -1,0 +1,12 @@
+{
+  "name": "js-travel",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@lai9fox/eslint-config": "^1.0.1",
+    "eslint": "^8.57.0"
+  }
+}
